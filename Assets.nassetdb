@@ -1,0 +1,20 @@
+{
+    "34e51e40-1041-454a-9381-42a73feb991a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Brick_By_Brick_Thumb.tex.nasset"
+    },
+    "b313ec5d-6bed-4986-bb2d-a938acf8b6cc": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Brick by Brick Assets"
+    },
+    "c0d6c75c-c03e-65b3-b97d-cc9b7575800d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/2D Platformer.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "guid": "717fd1f6-e248-4d83-d2be-2e6d8f7748a7"
+}
